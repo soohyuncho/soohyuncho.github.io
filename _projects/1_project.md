@@ -1,24 +1,22 @@
 ---
 layout: page
-title: project 1
+title: Political Economy of Gender 
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/dollar2.jpg
 importance: 1
-category: work
+category: Gender&IPE
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+We have observed gender gaps in policy attitudes in various issue areas. Yet, the effects of automation on women and their attitudes toward deindustrialization are less scrutinized. I also conduct a meta-analysis of the international relations literature on the gender gap in attitudes toward foreign policy. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**Related projects:**
+
+ 1. Protectionism Reconsidered: Economic Insecurity and the Gender Gap in Trade Attitudes
+ 2. Automation and Gendered Labor Markets (with Jae-wook Lee)
+ 3. Reassessing Gender Gaps in Foreign Policy
+ 4. Gender Bias and Implicit Attitudes Toward Refugees (with Liwu Gan)
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
