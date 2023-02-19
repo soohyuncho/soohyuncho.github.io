@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='polisci.osu.edu'>Ohio State University</a>
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
