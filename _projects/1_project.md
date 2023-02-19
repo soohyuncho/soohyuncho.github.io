@@ -8,7 +8,6 @@ category: Gender&IPE
 ---
 
 
-
 We have observed gender gaps in policy attitudes in various issue areas. Yet, the effects of automation on women and their attitudes toward deindustrialization are less scrutinized. I also conduct a meta-analysis of the international relations literature on the gender gap in attitudes toward foreign policy. 
 
 **Related projects:**
