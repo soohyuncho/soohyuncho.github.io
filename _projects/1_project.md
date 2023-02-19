@@ -2,7 +2,7 @@
 layout: page
 title: gender gaps in attitudes
 description: trade, automation, refugees
-img: /assets/img/dollar2.jpg
+img: /assets/img/dollar2.png
 importance: 1
 category: Gender&IPE
 ---
