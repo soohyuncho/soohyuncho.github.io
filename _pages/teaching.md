@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
- - Methods
+ Methods
  
    - Instructor of Record
     - **Data Analysis in Political Science I** (Undergrad): Autumn 2020/ Spring 2021/ Summer2021/ Autumn 2021/ Spring 2022
@@ -19,7 +19,7 @@ nav_order: 5
 
 
    
- - IPE/IR
+ IPE/IR
  
   - Instructor of Record
     - **Global Politics** (Undergrad): Spring 2019 (co-teaching)
