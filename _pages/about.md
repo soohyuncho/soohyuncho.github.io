@@ -6,7 +6,7 @@ subtitle: <a href='https://polisci.osu.edu'>Ohio State University</a>
 
 profile:
   align: right
-  image: prof_pic.png
+  image: 3.png
   image_circular: true # crops the image to make it circular
 
 news: false  # includes a list of news items
