@@ -1,6 +1,6 @@
 ---
 layout: page
-title: corporate social responsibility and trade 
+title: CSR and trade 
 description: ESG, supply chains
 img: /assets/img/csr_img.png
 ---
