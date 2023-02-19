@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='polisci.osu.edu'>Ohio State University</a>
+subtitle: <a href='https://polisci.osu.edu'>Ohio State University</a>
 
 profile:
   align: right
