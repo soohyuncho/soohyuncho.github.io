@@ -9,6 +9,9 @@ display_categories: [Gender&IPE, Corporate Social Responsibility in IR]
 horizontal: false
 ---
 
+
+My dissertation focuses on firms' and workers' responses to economic globalization and the diffusion of socially responsible norms. To assess these relationships, I employ a multimethod approach by combining natural language processing (NLP) and causal inference methods.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
