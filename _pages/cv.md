@@ -9,4 +9,10 @@ cv_pdf: true
 
 [CV](https://drive.google.com/file/d/1-F1NjQK0naQ2jqneoMmddSj16e1dex54/preview) (updated: Dec 2022)
 
-<iframe src="https://drive.google.com/file/d/1-F1NjQK0naQ2jqneoMmddSj16e1dex54/preview" height="600px" width="100%" allow="autoplay"></iframe>
+
+<div class="row justify-content-sm-center">
+  <iframe src="https://drive.google.com/file/d/1-F1NjQK0naQ2jqneoMmddSj16e1dex54/preview" height="600px" width="100%" allow="autoplay"></iframe>
+ </div>
+
+
+
