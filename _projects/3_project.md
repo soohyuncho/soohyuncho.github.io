@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CSR and trade 
-description: ESG, supply chains
+title:  firms and global value chaines  
+description: global performance indicators corporate social responsibility, lobbying 
 importance: 2
 img: /assets/img/csr_img.png
 ---
