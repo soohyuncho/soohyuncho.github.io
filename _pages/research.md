@@ -15,8 +15,8 @@ How does economic globalization affect workers’ experiences in the domestic la
 
 My dissertation focuses on firms' and workers' responses to economic globalization and the diffusion of socially responsible norms. To assess these relationships, I employ a multimethod approach by combining natural language processing (NLP) and causal inference methods.
 
-### Three Essays on the International Trade and the Domestic Labor Market
-
+### _Three Essays on the International Trade and the Domestic Labor Market
+_
 #### Protectionism Reconsidered: Economic Insecurity, Social Identity, and the Gender Gap in Trade Attitudes
 
 Using decomposition analysis, a survey experiment, and structural topic models, I examine how economic insecurity, such as the experience of gender discrimination for women and trade shocks for men, explains the gender gap in trade attitudes. 
