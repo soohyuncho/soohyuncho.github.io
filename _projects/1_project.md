@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Political Economy of Gender 
-description: a project with a background image
+title: gender gaps in attitudes toward economic policy
+description: trade, automation, refugees
 img: assets/img/dollar2.jpg
 importance: 1
 category: Gender&IPE
