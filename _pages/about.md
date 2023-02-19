@@ -7,11 +7,11 @@ subtitle: <a href='polisci.osu.edu'>Ohio State University</a>
 profile:
   align: left
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
 
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={false}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={false}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. candidate in Political Science at Ohio State University. My research lies at the intersection of international political economy, gender politics, and political methodology. In broad terms, I investigate the linkages between economic globalization and workers’ experiences in the domestic labor market.  I explore my research agenda through a mix of large-N quantitative analysis, causal inference, survey experiments, Bayesian statistics, and text analysis.  My dissertation, Three Essays on the Political Economy of International Trade and the Domestic Labor Market, focuses on firms’ and workers’ responses to economic globalization and the diffusion of social responsibility norms.
