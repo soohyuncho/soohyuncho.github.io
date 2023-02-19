@@ -13,8 +13,9 @@ We have observed gender gaps in policy attitudes in various issue areas. Yet, th
 **Related projects:**
 
  1. Protectionism Reconsidered: Economic Insecurity and the Gender Gap in Trade Attitudes
- 2. Automation and Gendered Labor Markets (with Jae-wook Lee)
- 3. Reassessing Gender Gaps in Foreign Policy
- 4. Gender Bias and Implicit Attitudes Toward Refugees (with Liwu Gan)
+ 2. Measuring Women's Economic Rights
+ 3. Automation and Gendered Labor Markets (with Jae-wook Lee)
+ 4. Reassessing Gender Gaps in Foreign Policy
+ 5. Gender Bias and Implicit Attitudes Toward Refugees (with Liwu Gan)
 
 
