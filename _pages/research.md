@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Questions 
+title: research
 permalink: /projects/
 description: How does economic globalization affect workers’ experiences in the domestic labor market, and how do their perceptions of globalization shape their attitudes toward economic policy? I investigate the linkages between economic globalization and workers’ experiences in the domestic labor market, with a special focus on the political consequences of economic and gender inequality in the labor market. I use computational methods, such as text analysis, survey experiments, and causal inference methods to test my claims.
 nav: true
