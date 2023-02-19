@@ -14,6 +14,7 @@ While research on globalization backlash in developed countries is widely scruti
         {% include figure.html path="assets/img/emigration.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 
-Related projects:
 
- - Insecurity and Attitudes toward Globalization: Evidence from Sub-Saharan Africa (with Sarah Brooks)
+**Related projects:**
+
+ 1. Insecurity and Attitudes toward Globalization: Evidence from Sub-Saharan Africa (with Sarah Brooks)
