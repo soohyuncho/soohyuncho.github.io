@@ -18,4 +18,6 @@ I am a Ph.D. candidate in Political Science at Ohio State University. My researc
 
 Before joining Ohio State, I earned my B.A. and M.A. in Political Science from Seoul National University, South Korea. My work has been supported by the Fulbright Fellowship, the [Presidential Fellow at OSU](https://gradsch.osu.edu/presidential-fellowship), and other grants including the APSA Centennial Center Research Grant and the APSA Doctoral Dissertation Research Improvement Grant. 
 
-My CV can be found [here](https://drive.google.com/file/d/1-F1NjQK0naQ2jqneoMmddSj16e1dex54/preview) (updated: Dec 2022)
+My CV can be found [here](https://drive.google.com/file/d/1-F1NjQK0naQ2jqneoMmddSj16e1dex54/preview) (updated: Dec 2022). 
+
+Email: cho.885\[at].osu.edu
