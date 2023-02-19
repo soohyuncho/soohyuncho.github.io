@@ -5,7 +5,7 @@ description: ESG, supply chains
 img: /assets/img/csr_img.png
 ---
 
-Supplier and customer firms are not only business partners, but also politically connected such that supply chain relationships affect customer firms’ lobbying activities in the U.S.  
+We observe the growing demand for sustainable investment in the world. The recent boom in Environmental, Social, and Governance, the so-called ESG investing has increasingly highlighted the importance of private regulations in the diffusion of socially responsible norms. Importantly, corporate social responsibility (CSR) and ESG investing is known to have an impact on supply chains. Because Supplier and customer firms are not only business partners, but also politically connected such that supply chain relationships affect customer firms’ lobbying activities in the U.S.  
 
 **Related projects:**
 
