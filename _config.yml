@@ -82,17 +82,17 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
-stackoverflow_id: # your stackoverflow id
-kaggle_id: # your kaggle id
-lastfm_id: # your lastfm id
-spotify_id: # your spotify id
-pinterest_id: # your pinterest id
-unsplash_id: # your unsplash id
+#blogger_url: # your blogger URL
+#work_url: # work page URL
+#keybase_username: # your keybase user name
+#wikidata_id: # your wikidata id
+#dblp_url: # your DBLP profile url
+#stackoverflow_id: # your stackoverflow id
+#kaggle_id: # your kaggle id
+#lastfm_id: # your lastfm id
+#spotify_id: # your spotify id
+#pinterest_id: # your pinterest id
+#unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
@@ -115,7 +115,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  # blog_name will be displayed in your blog page
+blog_name:   # blog_name will be displayed in your blog page
 blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
