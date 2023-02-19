@@ -8,13 +8,7 @@ nav_order: 2
 display_categories: [Gender&IPE, Corporate Social Responsibility in IR]
 horizontal: false
 ---
-```{css formatting, echo=FALSE}
 
-h1 {
-     font-weight: bold;
-     color: #CC0000;
- }
-```
  
 How does economic globalization affect workers’ experiences in the domestic labor market, and how do their perceptions of globalization shape their attitudes toward economic policy? I investigate the linkages between economic globalization and workers’ experiences in the domestic labor market, with a special focus on the political consequences of economic and gender inequality in the labor market. I use computational methods, such as text analysis, survey experiments, and causal inference methods to test my claims.
 
