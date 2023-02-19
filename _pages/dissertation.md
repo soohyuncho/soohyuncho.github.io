@@ -16,13 +16,13 @@ My dissertation, *Three Essays on the International Trade and the Domestic Labor
 
 ##### <span style="color:#bd2c00"> Protectionism Reconsidered: Economic Insecurity, Social Identity, and the Gender Gap in Trade Attitudes </span>
 
-Using decomposition analysis, a survey experiment, and structural topic models, I examine how economic insecurity, such as the experience of gender discrimination for women and trade shocks for men, explains the gender gap in trade attitudes. </span>
+Using decomposition analysis, a survey experiment, and structural topic models, I examine how economic insecurity, such as the experience of gender discrimination for women and trade shocks for men, explains the gender gap in trade attitudes.
 
-##### <span style="color:#bd2c00"> Obfuscating Social Responsibility: Global Performance Indicators and Labor Upgrading in Global Production Networks  
+##### <span style="color:#bd2c00"> Obfuscating Social Responsibility: Global Performance Indicators and Labor Upgrading in Global Production Networks   </span>
 
-Employing the difference-in-differences method, I investigate how Global Performance Indicators (GPIs) induce firms' compliance by obfuscation in supply chains and its impacts on workers' experiences in the labor market.</span>
+Employing the difference-in-differences method, I investigate how Global Performance Indicators (GPIs) induce firms' compliance by obfuscation in supply chains and its impacts on workers' experiences in the labor market.
 
-##### <span style="color:#bd2c00"> Measuring Women’s Economic Rights 
+##### <span style="color:#bd2c00"> Measuring Women’s Economic Rights </span>
 
 I create a new measure to capture the latent heterogeneity of gender inequality in the labor market. 
 
