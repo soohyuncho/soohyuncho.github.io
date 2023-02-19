@@ -3,7 +3,7 @@ layout: page
 title: globalization backlash 
 description: trade, immigration 
 img: assets/img/africa_trade.png
-importance: 1
+importance: 3
 category: 
 ---
 
