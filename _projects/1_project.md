@@ -1,6 +1,6 @@
 ---
 layout: page
-title: gender gaps in attitudes toward economic policy
+title: gender gaps in policy attitudes
 description: trade, automation, refugees
 img: assets/img/dollar2.jpg
 importance: 1
