@@ -2,6 +2,7 @@
 layout: page
 title: CSR and trade 
 description: ESG, supply chains
+importance: 2
 img: /assets/img/csr_img.png
 ---
 
