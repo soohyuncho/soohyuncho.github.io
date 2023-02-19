@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  firms and supply chains  
-description: global performance indicators, lobbying 
+description: global performance indicators, CSR, lobbying 
 importance: 2
 img: /assets/img/csr_img.png
 ---
