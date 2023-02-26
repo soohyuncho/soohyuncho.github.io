@@ -1,4 +1,9 @@
-    <!-- Metadata, OpenGraph and Schema.org -->
+<!-- google analytics -->
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
+<!-- Metadata, OpenGraph and Schema.org -->
     {% include metadata.html %}
 
     <!-- Bootstrap & MDB -->
