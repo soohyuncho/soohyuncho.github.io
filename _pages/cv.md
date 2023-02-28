@@ -6,5 +6,5 @@ nav: true
 nav_order: 5
 ---
 
-[CV](https://drive.google.com/file/d/1-F1NjQK0naQ2jqneoMmddSj16e1dex54/preview) (updated: Dec 2022)
-<iframe src="https://drive.google.com/file/d/1-F1NjQK0naQ2jqneoMmddSj16e1dex54/preview" height="600px" width="100%" allow="autoplay"></iframe>
+[CV](https://drive.google.com/file/d/1-JktzR1QJMgRNRa8Iy_RiueLKXC8E46G/view?usp=share_link) (updated: Dec 2022)
+<iframe src="https://drive.google.com/file/d/1-JktzR1QJMgRNRa8Iy_RiueLKXC8E46G/view?usp=share_link" height="600px" width="100%" allow="autoplay"></iframe>
