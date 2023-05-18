@@ -8,12 +8,12 @@ category: Gender&IPE
 ---
 
 
-We have observed gender gaps in policy attitudes in various issue areas. Yet, the effects of automation on women and their attitudes toward deindustrialization are less scrutinized. I also conduct a meta-analysis of the international relations literature on the gender gap in attitudes toward foreign policy. 
+We have observed gender gaps in policy attitudes in various issue areas. However, less attention has been paid to gender in IPE. 
 
 **Related projects:**
 
  1. Protectionism Reconsidered: Economic Insecurity and the Gender Gap in Trade Attitudes
- 2. Measuring Women's Economic Rights
+ 2. Assessing the Gap Between De Jure and De Facto Gender Equality in the Labor Market
  3. Automation and Gendered Labor Markets (with Jae-wook Lee)
  4. Reassessing Gender Gaps in Foreign Policy
  5. Gender Bias and Implicit Attitudes Toward Refugees (with Liwu Gan)
