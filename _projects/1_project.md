@@ -1,6 +1,6 @@
 ---
 layout: page
-title: gender gaps in attitudes
+title: gender gaps in IPE 
 description: trade, automation, refugees, experiments, text analysis
 img: /assets/img/dollar2.png
 importance: 1
@@ -8,7 +8,7 @@ category: Gender&IPE
 ---
 
 
-We have observed gender gaps in policy attitudes in various issue areas. However, less attention has been paid to gender in IPE. Employinig survey experiments, I examine why we observe the gender gaps in attitudes toward economic policy. 
+We have observed gender gaps in policy attitudes in various issue areas. However, less attention has been paid to gender in IPE. I examine women's experiences in the labor market and the gender gap in attitudes toward economic policy using survey experiments and item response theory models. 
 
 **Related projects:**
 
