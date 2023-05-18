@@ -8,7 +8,7 @@ category: Gender&IPE
 ---
 
 
-We have observed gender gaps in policy attitudes in various issue areas. However, less attention has been paid to gender in IPE. 
+We have observed gender gaps in policy attitudes in various issue areas. However, less attention has been paid to gender in IPE. Employinig survey experiments, I examine why we observe the gender gaps in attitudes toward economic policy. 
 
 **Related projects:**
 
