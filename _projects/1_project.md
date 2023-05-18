@@ -1,6 +1,6 @@
 ---
 layout: page
-title: gender gaps in IPE 
+title: gender in IPE 
 description: trade, automation, refugees, experiments, text analysis
 img: /assets/img/dollar2.png
 importance: 1
