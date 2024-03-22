@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  corporate social responsibility   
+title:  socially responsibly norms
 description: norm diffusion, ESG, supply chains, lobbying
 importance: 2
 img: /assets/img/csr_img.png
