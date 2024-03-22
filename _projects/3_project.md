@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  sustainability in IPE
+title:  sustainability norms
 description: norm diffusion, ESG, supply chains, lobbying
 importance: 2
 img: /assets/img/csr_img.png
