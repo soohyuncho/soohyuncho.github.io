@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  corporate social responsibility   
-description: global performance indicators, lobbying, DID
+description: norm diffusion, ESG, supply chains, lobbying
 importance: 2
 img: /assets/img/csr_img.png
 ---
@@ -13,3 +13,4 @@ We observe the growing demand for sustainable investment in the world. The recen
 
  1. Obfuscating Social Responsibility: Global Performance Indicators and Labor Upgrading in Global Production Networks  
  2. Chains of Lobbying: Mitigating Reputational Costs in Global Production Networks (with Hyunjoo Oh)
+ 3. Ballots and Bonds: The Electrifying Facade of Greenwashing in Provinces and Municipalities During Election Seasons (with Simone Dietrich)
