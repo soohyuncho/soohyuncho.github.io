@@ -27,7 +27,8 @@ We have observed gender gaps in policy attitudes in various issue areas. However
    <p>This study explores how automation-induced economic insecurity affects gendered social policy preferences in South Korea, a country with high exposure to automation and significant gender inequality. We argue that the devaluation of female labor results in less support for social policies when automation displaces female workers, as women are often not seen as primary breadwinners, and female-dominated job loss is viewed as more acceptable. Our survey experiment finds mixed results: while support for social protection does not differ based on the gender of those affected by automation, there is increased support for slowing automation when male workers are laid off, suggesting a bias toward protecting men's jobs. Moreover, this bias is stronger among respondents with sexist attitudes. Contrary to expectations, high automation risk does not reduce discriminatory views but amplifies them. These findings highlight that economic insecurity does not generate uniform support for all groups, emphasizing the importance of addressing both job displacement and gender inequality in policy design.</p>
    </details>
 
-**Work in Progress **
+
+**Work in Progress**
 
 1. Reassessing Gender Gaps in Foreign Policy
 2. Gender Bias and Implicit Attitudes Toward Refugees (with Liwu Gan)
