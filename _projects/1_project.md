@@ -28,7 +28,7 @@ We have observed gender gaps in policy attitudes in various issue areas. However
    </details>
 
 
-**Work in Progress**
+**Work in Progress:**
 
 1. Reassessing Gender Gaps in Foreign Policy
 2. Gender Bias and Implicit Attitudes Toward Refugees (with Liwu Gan)
