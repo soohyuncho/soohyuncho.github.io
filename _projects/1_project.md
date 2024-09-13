@@ -8,7 +8,8 @@ category: Gender&IPE
 ---
 
 
-We have observed gender gaps in policy attitudes in various issue areas. However, less attention has been paid to gender in IPE. I examine women's experiences in the labor market and the gender gap in attitudes toward economic policy using survey experiments and item response theory models. 
+Gender gaps in policy attitudes have been widely observed across various issue areas, yet there has been less focus on gender dynamics in International Political Economy (IPE). In this research, I explore women's labor market experiences and the gender gap in economic policy attitudes through survey experiments and item response theory models.
+
 
 **Working Papers:**
 
