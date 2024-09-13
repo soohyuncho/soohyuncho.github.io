@@ -20,5 +20,5 @@ My research lies at the intersection of international political economy, gender 
 
 I earned my B.A. and M.A. in Political Science from Seoul National University, South Korea. My work has been supported by the Fulbright Fellowship, the [Presidential Fellow at OSU](https://gradsch.osu.edu/presidential-fellowship), and other grants including the APSA Centennial Center Research Grant and the APSA Doctoral Dissertation Research Improvement Grant. 
 
-Email: soohyun.cho\[at].princeton.edu
+Email: s.cho\[at].bowdoin.edu
 
