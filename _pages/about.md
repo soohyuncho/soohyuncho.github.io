@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://niehaus.princeton.edu/'>Princeton University</a>
+subtitle:
 
 profile:
   align: right
