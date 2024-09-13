@@ -7,7 +7,7 @@ img: /assets/img/csr_img.png
 ---
 
 
-We observe the growing demand for sustainable investment in the world. The recent boom in Environmental, Social, and Governance, the so-called ESG investing has increasingly highlighted the importance of private regulations in diffusion norms of social responsibility. Importantly, corporate social responsibility (CSR) and ESG investing is known to have an impact on supply chains. Because Supplier and customer firms are not only business partners, but also politically connected such that supply chain relationships affect customer firms’ lobbying activities in the U.S.  
+There is a growing global demand for sustainable investment, reflected in the recent boom in Environmental, Social, and Governance (ESG) investing. This trend has underscored the significance of private regulations in spreading social responsibility norms. Notably, Corporate Social Responsibility (CSR) and ESG investing are known to impact supply chains, as supplier and customer firms are not just business partners but also politically connected. These supply chain relationships can influence customer firms’ lobbying activities in the U.S.
 
 **Working Papers:**
 
