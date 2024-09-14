@@ -1,7 +1,7 @@
 ---
 layout: page
-title: globalization backlash 
-description: trade, immigration, global south, experiments 
+title: globalization
+description: globalization backlash, global south, experiments 
 img: assets/img/africa_trade.png
 importance: 3
 category: 
