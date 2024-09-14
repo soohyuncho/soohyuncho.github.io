@@ -8,6 +8,7 @@ nav_order: 4
 ---
 
 ## Methods
+
 ### Bowdoin 
   - **Data Literacy and Data Visualization** (Undergrad, *Instructor of Record*): Fall 2024
 ### OSU 
@@ -19,6 +20,7 @@ nav_order: 4
 
    
 ## IPE/IR
+
 ### Bowdoin 
   - **International Political Economy** (Undergrad, *Instructor of Record*): Fall 2024 
 ### OSU
