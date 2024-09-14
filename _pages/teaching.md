@@ -11,6 +11,7 @@ nav_order: 4
 
 ### Bowdoin 
   - **Data Literacy and Data Visualization** (Undergrad, *Instructor of Record*): Fall 2024
+    
 ### OSU 
   - **Data Analysis in Political Science I** (Undergrad, *Instructor of Record*): Autumn 2020/ Spring 2021/ Summer2021/ Autumn 2021/ Spring 2022
   - **Data Literacy and Data Visualization** (Undergrad, *Instructor of Record*): Summer 2019/ Summer 2020 / Fall 2024
@@ -22,7 +23,8 @@ nav_order: 4
 ## IPE/IR
 
 ### Bowdoin 
-  - **International Political Economy** (Undergrad, *Instructor of Record*): Fall 2024 
+  - **International Political Economy** (Undergrad, *Instructor of Record*): Fall 2024
+    
 ### OSU
   - **Global Politics** (Undergrad, *Instructor of Record*): Spring 2019 (co-teaching)
   - **Theories of International Relations** (Undergrad, *Teaching Assistant*): Autumn 2018  
