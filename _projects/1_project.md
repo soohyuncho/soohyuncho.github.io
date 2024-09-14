@@ -1,7 +1,7 @@
 ---
 layout: page
-title: gender and gendered attitudes
-description: trade, automation, refugees, experiments, text analysis
+title: gender
+description: gendered attitudes, trade, automation, experiments, text analysis
 img: /assets/img/dollar2.png
 importance: 1
 category: Gender&IPE
