@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  sustainability norms
-description: norm diffusion, ESG, supply chains, lobbying
+title:  sustainability
+description: CSR, ESG, supply chains, labor, climate
 importance: 2
 img: /assets/img/csr_img.png
 ---
