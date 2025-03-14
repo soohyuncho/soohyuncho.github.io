@@ -30,6 +30,9 @@ Gender gaps in policy attitudes have been widely observed across various issue a
 
 4. Protectionism for Him, Welfare for Her: The Trade Origins of Gendered Political Cleavages (with Thomas M. Flaherty)
 
+5. Diversity Beyond Borders: How Intersectional Leadership Shapes Foreign Aid Perceptions (with Simone Dietrich and Rikio Inouye) 
+
+
 
 **Work in Progress:**
 
