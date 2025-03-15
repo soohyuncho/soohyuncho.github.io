@@ -23,4 +23,4 @@ group :other_plugins do
 end
 
 # Fix for URI gem version conflict
-gem 'uri', '0.10.1'
+gem 'uri', '0.10.1' 
