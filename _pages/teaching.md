@@ -7,9 +7,22 @@ nav: true
 nav_order: 4
 ---
 
+   
+## IPE/IR
+
+### Bowdoin  
+  - **Advanced International Political Economy (Seminar)** (Undergrad, *Instructor of Record*): Spring 2025
+  - **International Political Economy** (Undergrad, *Instructor of Record*): Fall 2024
+    
+### OSU
+  - **Global Politics** (Undergrad, *Instructor of Record*): Spring 2019 (co-teaching)
+  - **Theories of International Relations** (Undergrad, *Teaching Assistant*): Autumn 2018  
+
+
 ## Methods
 
 ### Bowdoin 
+  - **Quantitative Analysis in Political Science** (Undergrad, *Instructor of Record*): Spring 2025
   - **Data Literacy and Data Visualization** (Undergrad, *Instructor of Record*): Fall 2024
     
 ### OSU 
@@ -18,13 +31,3 @@ nav_order: 4
   - **Quantitative Political Analysis II** (Graduate methodology sequence; *Teaching Assistant*, running recitation sections and grading): Spring 2020
   - **Quantitative Political Analysis I** (Graduate methodology sequence; *Teaching Assistant*, running recitation sections and grading): Autumn 2019
 
-
-   
-## IPE/IR
-
-### Bowdoin 
-  - **International Political Economy** (Undergrad, *Instructor of Record*): Fall 2024
-    
-### OSU
-  - **Global Politics** (Undergrad, *Instructor of Record*): Spring 2019 (co-teaching)
-  - **Theories of International Relations** (Undergrad, *Teaching Assistant*): Autumn 2018  
