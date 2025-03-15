@@ -8,7 +8,7 @@ category: Gender&IPE
 ---
 
 
-Gender gaps in policy attitudes have been widely observed across various issue areas, yet there has been less focus on gender dynamics in International Political Economy (IPE). In this research, I explore women's labor market experiences and the gender gap in economic policy attitudes through survey experiments and item response theory models.
+Gender gaps in policy attitudes have been widely observed across various issue areas, yet there has been less focus on gender dynamics in the International Political Economy (IPE). In this research, I explore women's labor market experiences and the gender gap in economic policy attitudes through survey experiments and item response theory models.
 
 
 **Working Papers:**
@@ -29,9 +29,14 @@ Gender gaps in policy attitudes have been widely observed across various issue a
    </details>
 
 4. Protectionism for Him, Welfare for Her: The Trade Origins of Gendered Political Cleavages (with Thomas M. Flaherty) 
+   <details><summary>Abstract</summary>
+   <p></p>
+   </details>
 
 5. Diversity Beyond Borders: How Intersectional Leadership Shapes Foreign Aid Perceptions (with Simone Dietrich and Rikio Inouye) 
-
+   <details><summary>Abstract</summary>
+   <p></p>
+   </details>
 
 
 
