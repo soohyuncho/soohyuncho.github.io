@@ -11,7 +11,7 @@ nav_order: 4
 ## IPE/IR 
 
 ### Bowdoin  
-  - **Advanced International Political Economy (Seminar)** (Undergrad, *Instructor of Record*): Spring 2025
+  - **Advanced International Political Economy (Seminar)** (Undergrad, *Instructor of Record*): Spring 2025 
   - **International Political Economy** (Undergrad, *Instructor of Record*): Fall 2024  
     
 ### OSU
