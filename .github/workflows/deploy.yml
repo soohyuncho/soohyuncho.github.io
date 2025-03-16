@@ -1,4 +1,4 @@
-name: Deploy Jekyll site
+name: Deploy Jekyll site # Updated workflow file
 on:
   push:
     branches:
