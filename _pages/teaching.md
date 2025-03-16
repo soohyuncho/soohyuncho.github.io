@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
    
-## <h2 style="color:grey;">IPE/IR</h2>
+## IPE/IR
 
 #### at Bowdoin  
   - **Advanced International Political Economy (Seminar)** (Undergrad, *Instructor of Record*): Spring 2025 
@@ -20,7 +20,7 @@ nav_order: 4
 
 <br>
 
-## <h2 style="color:grey;">Methods</h2>
+## Methods
 
 
 #### at Bowdoin 
