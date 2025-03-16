@@ -16,7 +16,7 @@ nav_order: 4
     
 #### at OSU
   - **Global Politics** (Undergrad, *Instructor of Record*): Spring 2019 (co-teaching)
-  - **Theories of International Relations** (Undergrad, *Teaching Assistant*): Autumn 2018  
+  - **Theories of International Relations** (Undergrad, *Teaching Assistant*): Autumn 2018
 
 <br>
 
