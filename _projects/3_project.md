@@ -1,13 +1,11 @@
 ---
 layout: page
-title:  sustainability
+title:  Sustainability
 description: CSR, ESG, environmental/labor norms, supply chains
 importance: 2
 img: /assets/img/csr_img.png
 ---
 
-
-There is a growing global demand for sustainable investment, reflected in the recent boom in Environmental, Social, and Governance (ESG) investing. This trend has underscored the significance of private regulations in spreading social responsibility norms. Notably, Corporate Social Responsibility (CSR) and ESG investing are known to impact supply chains, as supplier and customer firms are not just business partners but also politically connected. These supply chain relationships can influence customer firms’ lobbying activities in the U.S.
 
 **Working Papers:**
 
