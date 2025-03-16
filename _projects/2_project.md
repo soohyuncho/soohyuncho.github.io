@@ -1,13 +1,11 @@
 ---
 layout: page
-title: globalization
-description: globalization backlash, global south, trade, immigration
+title: Globalization
+description: globalization backlash, global south, trade, immigration, foreign aid
 img: assets/img/africa_trade.png
 importance: 3
 category: 
 ---
-
-While research on globalization backlash in developed countries is widely scrutinized, little is known about developing countries' attitudes toward globalization.
 
 
 **Working Papers:**
