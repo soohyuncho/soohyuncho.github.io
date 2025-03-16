@@ -1,14 +1,11 @@
 ---
 layout: page
-title: gender
-description: gendered attitudes, trade, automation, social policy
+title: Gender/IPE
+description: trade, foreign aid, automation, social policy
 img: /assets/img/dollar2.png
 importance: 1
 category: Gender&IPE
 ---
-
-
-Gender gaps in policy attitudes have been widely observed across various issue areas, yet there has been less focus on gender dynamics in the International Political Economy (IPE). In this research, I explore women's labor market experiences and the gender gap in economic policy attitudes through survey experiments and item response theory models.
 
 
 **Working Papers:**
