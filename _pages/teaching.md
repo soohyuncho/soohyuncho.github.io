@@ -18,7 +18,7 @@ nav_order: 4
   - **Global Politics** (Undergrad, *Instructor of Record*): Spring 2019 (co-teaching)
   - **Theories of International Relations** (Undergrad, *Teaching Assistant*): Autumn 2018  
 
-<br><br>
+<br>
 
 ## <h2 style="color:grey;">Methods</h2>
 
