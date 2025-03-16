@@ -1,7 +1,12 @@
 ---
 layout: page
+<<<<<<< HEAD
+title: Gender/IPE
+description: gendered attitudes, trade, automation, social policy
+=======
 title: Gender/IPE
 description: trade, foreign aid, automation, social policy
+>>>>>>> 60eb48a1829ff0a4a04463898e838826074aa580
 img: /assets/img/dollar2.png
 importance: 1
 category: Gender&IPE
