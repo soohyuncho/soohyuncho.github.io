@@ -1,7 +1,12 @@
 ---
 layout: page
+<<<<<<< HEAD
+title: Globalization
+description: globalization backlash, trade, immigration, foreign aid
+=======
 title: Globalization
 description: globalization backlash, global south, trade, immigration, foreign aid
+>>>>>>> 60eb48a1829ff0a4a04463898e838826074aa580
 img: assets/img/africa_trade.png
 importance: 3
 category: 
