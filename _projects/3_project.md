@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Sustainability
+title:  Sustainability 
 description: CSR, ESG, environmental/labor norms, supply chains
 importance: 2
 img: /assets/img/csr_img.png
