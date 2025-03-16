@@ -33,7 +33,7 @@ category: Gender&IPE
 5. Diversity Beyond Borders: How Intersectional Leadership Shapes Foreign Aid Perceptions (with Simone Dietrich and Rikio Inouye) 
    <details><summary>Abstract</summary>
    <p></p>
-   </details>
+   </details> 
 
 
 
