@@ -31,7 +31,7 @@ category: Gender&IPE
   <li>
     <strong>Protectionism for Him, Welfare for Her: The Trade Origins of Gendered Political Cleavages</strong> (with Thomas M. Flaherty)
     <details><summary>Abstract</summary>
-    <p></p>
+    <p>What explains gendered political cleavages over globalization? Although earlier work suggests that women support trade barriers more than men, recent populist movements reveal the opposite. We develop a theory that incorporates family economic structures into the specific factors model of trade preferences, showing how traditional gender roles reshape the distributional effects of economic policies: male family members benefit more from protectionism, while female members benefit more from welfare compensation. We test this by tracking how exogenous trade shocks propagate through families to affect survey respondents’ policy preferences. When respondents’ family members suffer increased import competition, males significantly turn to trade and migration restrictions, while females turn to family-oriented welfare policies. These indirect family effects also shape electoral behavior, fueling male support for populists and decreasing female participation in elections. The findings underscore the importance of moving beyond individual voter characteristics to understand fully gendered political cleavages over economic policy.</p>
 </details>
   </li>
 
