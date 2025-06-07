@@ -21,6 +21,6 @@ Chains
      </details>
 
 3. Who Gets Protection from Protectionism? Evidence from the Buy American Act (with Kyuwon Lee, Hye Young You)
- <details><summary>Abstract</summary>
+      <details><summary>Abstract</summary>
      <p></p>
      </details>
