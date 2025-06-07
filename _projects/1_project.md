@@ -27,7 +27,7 @@ category: Gender&IPE
 
   </ol>
 
-  <div style="margin-top: 0.8em;"></div>
+<br>
   
 **Selected Working Papers:**
 
