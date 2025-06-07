@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Sustainability, GVC
-description: CSR, supply chains
+title:  GVCs, CSR
+description: supply chains, Environemntal, Social, and Governance
 importance: 2
 img: /assets/img/csr_img.png
 ---
