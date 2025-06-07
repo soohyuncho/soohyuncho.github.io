@@ -19,7 +19,7 @@ category: Gender&IPE
   <div style="margin-top: 0.6em;"></div>
 
   <li>
-    <strong>Diversity Beyond Borders: How Intersectional Leadership Shapes Foreign Aid Perceptions</strong> (with Simone Dietrich and Rikio Inouye)
+    <strong>Beyond Paternalism: How Leadership Diversity Shapes Foreign Aid Perceptions in South Africa</strong> (with Simone Dietrich and Rikio Inouye)
     <details><summary>Abstract</summary>
     <p>This paper examines how the racial and gender composition of donor leadership shapes public opinion in recipient countries. Focusing on South Africa, we explore whether the inclusion of women and Black individuals in U.S. foreign aid leadership influences perceptions of aid programs. Given the legacy of neocolonialism in foreign assistance, we argue that such non-traditional leadership signals a break from paternalistic models, enhancing perceived alignment with recipient needs. Using a two-wave survey experiment conducted in South Africa in 2024, we manipulate the race and gender composition of U.S. aid leaders. We find that both descriptive representation and greater inclusion of marginalized groups improve favorability toward U.S. leadership, especially among women and Black respondents. However, the effects weaken among individuals with sexist attitudes. Our findings highlight how non-traditional leadership can enhance perceived responsiveness, contributing to broader debates on aid effectiveness, international legitimacy, and the intersectional politics of foreign policy institutions.</p>
 </details>
