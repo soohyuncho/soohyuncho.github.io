@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Sustainability, GVC
-description: CSR, ESG, environmental/labor norms
+description: CSR, ESG, supply chains
 importance: 2
 img: /assets/img/csr_img.png
 ---
