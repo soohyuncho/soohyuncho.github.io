@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Sustainability, GVC
-description: CSR, ESG, supply chains
+description: CSR, supply chains
 importance: 2
 img: /assets/img/csr_img.png
 ---
