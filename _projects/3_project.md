@@ -1,10 +1,6 @@
 ---
 layout: page
-<<<<<<< HEAD
-title:  Sustainability
-=======
-title:  Supply Chains 
->>>>>>> 60eb48a1829ff0a4a04463898e838826074aa580
+title:  Sustainability, GVC
 description: CSR, ESG, environmental/labor norms
 importance: 2
 img: /assets/img/csr_img.png
