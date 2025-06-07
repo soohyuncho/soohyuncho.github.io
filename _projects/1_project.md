@@ -27,6 +27,7 @@ category: Gender&IPE
    </details>
 
 <br>
+
 4. Protectionism for Him, Welfare for Her: The Trade Origins of Gendered Political Cleavages (with Thomas M. Flaherty) 
    <details><summary>Abstract</summary>
    <p></p>
