@@ -1,7 +1,7 @@
 ---
 layout: page
 title: research
-permalink: /research/
+permalink: /dissertation/
 description: 
 nav: true
 nav_order: 2
