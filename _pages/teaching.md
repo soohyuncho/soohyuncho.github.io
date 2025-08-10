@@ -12,7 +12,7 @@ nav_order: 4
 
 #### at Bowdoin  
   - **Advanced International Political Economy (Seminar)** (Undergrad, *Instructor of Record*): Spring 2025 
-  - **International Political Economy** (Undergrad, *Instructor of Record*): Fall 2024   
+  - **International Political Economy** (Undergrad, *Instructor of Record*): Fall 2024, Fall 2025   
     
 #### at OSU
   - **Global Politics** (Undergrad, *Instructor of Record*): Spring 2019 (co-teaching)
@@ -25,7 +25,7 @@ nav_order: 4
 
 #### at Bowdoin 
   - **Quantitative Analysis in Political Science** (Undergrad, *Instructor of Record*): Spring 2025
-  - **Data Literacy and Data Visualization** (Undergrad, *Instructor of Record*): Fall 2024
+  - **Data Literacy and Data Visualization** (Undergrad, *Instructor of Record*): Fall 2024, Fall 2025
     
 #### at OSU 
   - **Data Analysis in Political Science I** (Undergrad, *Instructor of Record*): Autumn 2020/ Spring 2021/ Summer2021/ Autumn 2021/ Spring 2022
