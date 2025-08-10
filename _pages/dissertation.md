@@ -60,7 +60,8 @@ horizontal: false
     </details>
   </li>
   
-  
+ <div style="margin-top: 0.6em;"></div>
+    
   <li> 
 <strong>Automation, Economic Insecurity, and Gendered Social Policy Attitudes: Evidence from South Korea</strong> (with Jae-wook Lee)
 <details><summary>Abstract</summary>
