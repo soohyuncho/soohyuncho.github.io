@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: 
-nav: true
+nav: false
 nav_order: 3
 display_categories: #[Gender&IPE, Corporate Social Responsibility&IPE]
 horizontal: false
