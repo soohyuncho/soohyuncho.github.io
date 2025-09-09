@@ -51,7 +51,7 @@ horizontal: false
   <div style="margin-top: 0.6em;"></div>
 
   <li>
-    <strong>Wages Over Workers’ Power: The Diffusion of Labor Norms in Supply Chains
+    <strong>Wages Over Workers’ Power: The Diffusion of Labor Norms in Supply Chains </strong>
   </li>
 <br>
   <div style="margin-top: 0.6em;"></div>
