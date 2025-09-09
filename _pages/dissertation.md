@@ -53,26 +53,26 @@ horizontal: false
   <li>
     <strong>Wages Over Workers’ Power: The Diffusion of Labor Norms in Supply Chains
   </li>
-
+<br>
   <div style="margin-top: 0.6em;"></div>
   
   <li>
     <strong>Chains of Lobbying: How Sustainability Risks in Supply Chains Affect Corporate Political Activities</strong> (with Hyunjoo Oh)
   </li>
-
+<br>
   <div style="margin-top: 0.6em;"></div>
 
   <li>
     <strong>Who Gets Protection from Protectionism? Evidence from the Buy American Act</strong> (with Kyuwon Lee, Hye Young You)
   </li>
   
-
+<br>
 <div style="margin-top: 0.6em;"></div>
 
 <li>
 <strong>Protectionism for Him, Welfare for Her: The Trade Origins of Gendered Political Cleavages</strong> (with Thomas M. Flaherty)
 </li>
-
+<br>
 <div style="margin-top: 0.6em;"></div>
 
  <li>
