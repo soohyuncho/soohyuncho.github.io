@@ -46,46 +46,36 @@ horizontal: false
 
   <li>
     <strong>How Firms Prioritize the Diffusion of Environmental, Social, and Governance Norms in Supply Chains</strong>
-    <details><summary>Abstract</summary>
-    <p>Firms are increasingly responsible for the international diffusion of norms across environmental, labor, and governance domains. However, little is known about how firms allocate responsibility <i>across</i> these domains. By considering multiple domains at once, I find that firms prioritize their efforts to uphold environmental norms ("E") over social ("S") and governance ("G") norms when they are pressured by customer firms and countries. This supports a new theory of firm obfuscation, in which competition in supply chains and the bundling of ratings across environmental, social, and governance (ESG) domains, incentivize firms to improve in less costly domains. To empirically test this theory, I match firm-level supply chain relationships to five datasets containing ESG ratings, ESG risk incidents, ESG proposals, country-level ESG regulatory instruments, and firm characteristics.</p>
-    </details>
   </li>
 
   <div style="margin-top: 0.6em;"></div>
 
   <li>
+    <strong>Wages Over Workers’ Power: The Diffusion of Labor Norms in Supply Chains
+  </li>
+
+  <div style="margin-top: 0.6em;"></div>
+  
+  <li>
     <strong>Chains of Lobbying: How Sustainability Risks in Supply Chains Affect Corporate Political Activities</strong> (with Hyunjoo Oh)
-    <details><summary>Abstract</summary>
-    <p>With the growing emphasis on sustainability, downstream customer firms are increasingly accountable for their upstream suppliers' ESG violations, facing trade restrictions and limited access to international suppliers. This drives them to influence policy through lobbying, given the capital investments required to ensure ESG compliance and to alter supply chain relationships. We propose two hypotheses: (1) customer firms tend to increase lobbying efforts following their suppliers' ESG risk incidents, and (2) these efforts are more pronounced for environmental risks due to their visibility and salience. Using U.S. firm-level lobbying data, global supply chain data, ESG risk incidents, and firm characteristics from 2007–2019, our analysis shows that downstream firms increase lobbying expenditures, specifically trade issues, after ESG risk incidents. Moreover, environmental risk incidents lead to an increase in lobbying on environmental and trade issues, while social or governance risks do not affect lobbying expenditures. This study highlights how supply chain sustainability risks, particularly environmental issues, drive customer firms' lobbying behavior.</p>
-</details>
   </li>
 
   <div style="margin-top: 0.6em;"></div>
 
   <li>
     <strong>Who Gets Protection from Protectionism? Evidence from the Buy American Act</strong> (with Kyuwon Lee, Hye Young You)
-    <details><summary>Abstract</summary>
-    <p></p>
-    </details>
   </li>
   
-
 
 <div style="margin-top: 0.6em;"></div>
 
 <li>
 <strong>Protectionism for Him, Welfare for Her: The Trade Origins of Gendered Political Cleavages</strong> (with Thomas M. Flaherty)
-<details><summary>Abstract</summary>
-<p>What explains gendered political cleavages over globalization? Although earlier work suggests that women support trade barriers more than men, recent populist movements reveal the opposite. We develop a theory that incorporates family economic structures into the specific factors model of trade preferences, showing how traditional gender roles reshape the distributional effects of economic policies: male family members benefit more from protectionism, while female members benefit more from welfare compensation. We test this by tracking how exogenous trade shocks propagate through families to affect survey respondents’ policy preferences. When respondents’ family members suffer increased import competition, males significantly turn to trade and migration restrictions, while females turn to family-oriented welfare policies. These indirect family effects also shape electoral behavior, fueling male support for populists and decreasing female participation in elections. The findings underscore the importance of moving beyond individual voter characteristics to understand fully gendered political cleavages over economic policy.</p>
-</details>
 </li>
 
 <div style="margin-top: 0.6em;"></div>
 
  <li>
     <strong>Insecurity and Attitudes toward Globalization: Evidence from Sub-Saharan Africa </strong> (with Sarah Brooks)
-    <details><summary>Abstract</summary>
-    <p>Canonical trade models (Heckscher-Ohlin-Stolper Samuelson) predict that developing countries, rich in low-skilled labor, tend to favor free trade, a view largely confirmed by studies. However, most research on the globalization backlash focuses on advanced industrial nations, overlooking variations within the developing world. Our study addresses this by examining differences between middle-income emerging democracies and poorer developing nations, and by distinguishing between attitudes toward trade and migration. We argue that while developing nations broadly support trade liberalization, middle-income countries may experience discontent over migration, similar to advanced nations. Using a conjoint survey experiment in South Africa and Zimbabwe, we find that South African respondents, from a middle-income nation, express migration preferences akin to those in advanced industrial nations, while maintaining mixed views on trade. This research suggests a need for a more nuanced understanding of globalization, factoring in varying economic contexts and attitudes within developing nations.</p>
-    </details>
   </li>
   </ol>
