@@ -48,6 +48,7 @@ horizontal: false
     <strong>How Firms Prioritize the Diffusion of Environmental, Social, and Governance Norms in Supply Chains</strong>
   </li>
 
+<div style="margin-top: 0.6em;"></div>
   <div style="margin-top: 0.6em;"></div>
 
   <li>
