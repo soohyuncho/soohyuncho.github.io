@@ -77,5 +77,6 @@ horizontal: false
 
  <li>
     <strong>Insecurity and Attitudes toward Globalization: Evidence from Sub-Saharan Africa </strong> (with Sarah Brooks)
-  </li>
+ </li>
+  
   </ol>
