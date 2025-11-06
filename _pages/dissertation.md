@@ -36,12 +36,6 @@ horizontal: false
 </details>
 </li>
 
- <div style="margin-top: 0.6em;"></div>
-
-  <li>
- <strong>Who Gets Protection from Protectionism? Evidence from the Buy American Act </strong> (with Kyuwon Lee, Hye Young You)
-</details>
-</li>
 
 </ol>
 
