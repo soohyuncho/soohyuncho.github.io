@@ -82,5 +82,13 @@ horizontal: false
  <li>
     <strong>Insecurity and Attitudes toward Globalization: Evidence from Sub-Saharan Africa </strong> (with Sarah Brooks)
  </li>
-  
+
+  <br>
+<div style="margin-top: 0.6em;"></div>
+
+ <li>
+    <strong>Firms as Catalysts: How Firms Drive the Diffusion of Green Bond Markets </strong> (with Monica Widmann)
+ </li>
+
+ 
   </ol>
