@@ -39,9 +39,9 @@ horizontal: false
  <div style="margin-top: 0.6em;"></div>
     
   <li> 
-<strong>Saving His Job, Not Hers: Selective Protection in Automation-Driven Job Loss </strong> (with Jae-wook Lee)
+<strong>Who Gets Protection from Protectionism? Evidence from the Buy American Act </strong> (with Kyuwon Lee, Hye Young You)
 <details><summary>Abstract</summary>
-<p>Recent advances in automation have raised concerns about job insecurity, potentially increasing support for social policies. While existing research links policy preferences to individuals’ economic vulnerability, the role of identity—particularly gender—remains underexplored. We argue that automation-driven layoffs do not universally increase support for social protection; rather, their effects are shaped by gender norms. Using a survey experiment in South Korea, we show that automation-driven job loss increases support for an ex-ante protective measure (e.g., Automation Tax) only when male workers are affected. This selective protection reflects the male-breadwinner model, which views male labor as more essential to household income and male job loss as more socially disruptive. The disparity in social policy preferences by laid-off's gender profile is pronounced among individuals who hold sexist attitudes. Our findings reveal how gendered beliefs about labor value shape social protection preferences, highlighting identity-based biases in responses to economic change.</p>
+<p> </p>
 </details>
 </li>
 
@@ -68,12 +68,7 @@ horizontal: false
   <li>
     <strong>Chains of Lobbying: How Sustainability Risks in Supply Chains Affect Corporate Political Activities</strong> (with Hyunjoo Oh)
   </li>
-<br>
-  <div style="margin-top: 0.6em;"></div>
 
-  <li>
-    <strong>Who Gets Protection from Protectionism? Evidence from the Buy American Act </strong> (with Kyuwon Lee, Hye Young You)
-  </li>
   
 <br>
 <div style="margin-top: 0.6em;"></div>
