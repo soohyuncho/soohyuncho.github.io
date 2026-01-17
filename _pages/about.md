@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof3.png
+  image: prof4.png
   image_circular: true # crops the image to make it circular
 
 news: false  # includes a list of news items
