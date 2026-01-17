@@ -11,8 +11,8 @@ nav_order: 4
 ## IPE/IR
 
 #### at Bowdoin  
-  - **Governing the Global Economy: Corporations and IOs** (Undergrad, *Instructor of Record*): Spring 2026 
-  - **Advanced International Political Economy (Seminar)** (Undergrad, *Instructor of Record*): Spring 2025 
+  - **Governing the Global Economy: Corporations and IOs** (Undergrad): Spring 2026
+  - **Advanced International Political Economy (Seminar)** (Undergrad): Spring 2025, Spring 2026 
   - **International Political Economy** (Undergrad, *Instructor of Record*): Fall 2024, Fall 2025   
     
 #### at OSU
@@ -25,8 +25,8 @@ nav_order: 4
 
 
 #### at Bowdoin 
-  - **Quantitative Analysis in Political Science** (Undergrad, *Instructor of Record*): Spring 2025
-  - **Data Literacy and Data Visualization** (Undergrad, *Instructor of Record*): Fall 2024, Fall 2025
+  - **Quantitative Analysis in Political Science** (Undergrad): Spring 2025
+  - **Data Literacy and Data Visualization** (Undergrad): Fall 2024, Fall 2025
     
 #### at OSU 
   - **Data Analysis in Political Science I** (Undergrad, *Instructor of Record*): Autumn 2020/ Spring 2021/ Summer2021/ Autumn 2021/ Spring 2022
