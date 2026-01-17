@@ -11,6 +11,7 @@ nav_order: 4
 ## IPE/IR
 
 #### at Bowdoin  
+  - **Governing the Global Economy: Corporations and IOs** (Undergrad, *Instructor of Record*): Spring 2026 
   - **Advanced International Political Economy (Seminar)** (Undergrad, *Instructor of Record*): Spring 2025 
   - **International Political Economy** (Undergrad, *Instructor of Record*): Fall 2024, Fall 2025   
     
