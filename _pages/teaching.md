@@ -29,8 +29,8 @@ nav_order: 4
   - **Data Literacy and Data Visualization** (Undergrad): Fall 2024, Fall 2025
     
 #### at OSU 
-  - **Data Analysis in Political Science I** (Undergrad, *Instructor of Record*): Autumn 2020/ Spring 2021/ Summer2021/ Autumn 2021/ Spring 2022
-  - **Data Literacy and Data Visualization** (Undergrad, *Instructor of Record*): Summer 2019/ Summer 2020 / Fall 2024
+  - **Data Analysis in Political Science I** (Undergrad, *Instructor of Record*): Autumn 2020, Spring 2021, Summer2021, Autumn 2021, Spring 2022
+  - **Data Literacy and Data Visualization** (Undergrad, *Instructor of Record*): Summer 2019, Summer 2020, Fall 2024
   - **Quantitative Political Analysis II** (Graduate methodology sequence; *Teaching Assistant*, running recitation sections and grading): Spring 2020
   - **Quantitative Political Analysis I** (Graduate methodology sequence; *Teaching Assistant*, running recitation sections and grading): Autumn 2019
 
