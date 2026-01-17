@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={false}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of  [Government and Legal Studies](https://www.bowdoin.edu/government/) at Bowdoin College. I was a Postdoctoral Research Fellow at Princeton University's [Niehaus Center for Globalization and Governance](https://niehaus.princeton.edu/). I received my Ph.D. in Political Science in 2023 from Ohio State University. 
+I am an Assistant Professor of  [Government and Legal Studies](https://www.bowdoin.edu/government/) at Bowdoin College. I was a Postdoctoral Research Fellow at Princeton University's [Niehaus Center for Globalization and Governance](https://niehaus.princeton.edu/). I received my Ph.D. in [Political Science](https://polisci.osu.edu/) in 2023 from Ohio State University. 
 
 My research examines how global economic integration reshapes domestic labor markets, political identities, and firm behavior. I focus on how exposure to globalization generates economic insecurity and how that insecurity translates into political preferences and policy responses. 
 
