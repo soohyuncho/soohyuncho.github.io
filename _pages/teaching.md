@@ -13,7 +13,7 @@ nav_order: 4
 #### at Bowdoin  
   - **Governing the Global Economy: Corporations and IOs** (Undergrad): Spring 2026
   - **Advanced International Political Economy (Seminar)** (Undergrad): Spring 2025, Spring 2026 
-  - **International Political Economy** (Undergrad, *Instructor of Record*): Fall 2024, Fall 2025   
+  - **International Political Economy** (Undergrad): Fall 2024, Fall 2025   
     
 #### at OSU
   - **Global Politics** (Undergrad, *Instructor of Record*): Spring 2019 (co-teaching)
