@@ -105,7 +105,8 @@ horizontal: false
 <div style="margin-top: 0.6em;"></div>
 
  <li>
-    <strong>Firms as Catalysts: How Firms Drive the Diffusion of Green Bond Markets </strong> (with <a href="https://monicawidmann.github.io">Monica Widmann</a>)
+    <strong>Seeing Red? Perceptions of the AIIB and China’s
+Leadership Prospects </strong> (with <a href="https://sppga.ubc.ca/profile/soo-yeon-kim/">Soo Yeon Kim</a>)
 
  </li>
 
