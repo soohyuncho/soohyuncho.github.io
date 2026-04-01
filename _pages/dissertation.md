@@ -31,6 +31,15 @@ horizontal: false
 
  <div style="margin-top: 0.6em;"></div>
 
+  <li> 
+<strong>A Family Production Theory of Political Cleavages over Globalization and Welfare </strong> (with <a href="https://www.thomasflaherty.com">Thomas F. Flaherty</a>) <i> [Revise and Resubmit] </i>
+<details><summary>Abstract</summary>
+<p> Dominant approaches to globalization politics emphasize individual characteristics without accounting for families. We develop a theory that incorporates intra-family risk sharing into the Ricardo-Viner trade model, showing how economic shocks diffuse through family ties to shape political cleavages. Linking U.S. General Social Survey data with trade data, we examine how voters’ opinions respond when their family members are exposed to exogenous variation in import shocks from Mexico. Rising exposure through family members significantly increases respondents' support for a variety of globalization barriers and welfare compensation, independently of their own industry exposure. Our analysis also corroborates the theory's gendered implications. Because of gendered specialization within families, backlash against globalization is primarily driven by males, while welfare responses are concentrated among females. The results are robust to pre-treatment trends, placebo policy preferences, and voting behaviors. Our study highlights the importance of moving beyond individual characteristics to understand political cleavages over economic policy.  </p>
+</details>
+</li>
+
+ <div style="margin-top: 0.6em;"></div>
+
 <li>
 <strong>Protectionism Reconsidered: Economic Insecurity and the Gender Gap in Trade Attitudes</strong>
 <details><summary>Abstract</summary>
@@ -50,23 +59,7 @@ horizontal: false
 </details>
 </li>
 
- <div style="margin-top: 0.6em;"></div>
 
-    
-    
-
-
-
-
-
-
-
-  <li> 
-<strong>A Family Production Theory of Political Cleavages over Globalization and Welfare </strong> (with <a href="https://www.thomasflaherty.com">Thomas F. Flaherty</a>)
-<details><summary>Abstract</summary>
-<p> Dominant approaches to globalization politics emphasize individual characteristics without accounting for families. We develop a theory that incorporates intra-family risk sharing into the Ricardo-Viner trade model, showing how economic shocks diffuse through family ties to shape political cleavages. Linking U.S. General Social Survey data with trade data, we examine how voters’ opinions respond when their family members are exposed to exogenous variation in import shocks from Mexico. Rising exposure through family members significantly increases respondents' support for a variety of globalization barriers and welfare compensation, independently of their own industry exposure. Our analysis also corroborates the theory's gendered implications. Because of gendered specialization within families, backlash against globalization is primarily driven by males, while welfare responses are concentrated among females. The results are robust to pre-treatment trends, placebo policy preferences, and voting behaviors. Our study highlights the importance of moving beyond individual characteristics to understand political cleavages over economic policy.  </p>
-</details>
-</li>
 
 
 </ol>
