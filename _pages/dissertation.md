@@ -77,20 +77,20 @@ horizontal: false
   <div style="margin-top: 0.6em;"></div>
 
   <li>
-    <strong>Wages Over Workers’ Power: The Diffusion of Labor Norms in Supply Chains </strong>
+    <strong>Wages over Workers' Power: Selective Labor Norm Diffusion in Global Supply Chains </strong>
   </li>
 <br>
   <div style="margin-top: 0.6em;"></div>
   
   <li>
-    <strong>Chains of Lobbying: How Sustainability Risks in Supply Chains Affect Corporate Political Activities</strong> (with Hyunjoo Oh)
+    <strong>Chains of Lobbying: How Supplier Misconduct and Regulatory Risk Shape Corporate Trade Politics</strong> (with Hyunjoo Oh)
   </li>
 
   <br>
 <div style="margin-top: 0.6em;"></div>
 
  <li>
-    <strong>Insecurity and Attitudes toward Globalization: Evidence from Sub-Saharan Africa </strong> (with <a href="https://polisci.osu.edu/people/brooks.317">Sarah Brooks</a>)
+    <strong>Welcome Goods, Unwelcome Workers: Regional Factor Abundance and the Globalization Backlash in Southern Africa </strong> (with <a href="https://polisci.osu.edu/people/brooks.317">Sarah Brooks</a>)
 
  </li>
 
