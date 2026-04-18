@@ -103,5 +103,15 @@ Leadership Prospects </strong> (with <a href="https://sppga.ubc.ca/profile/soo-y
 
  </li>
 
+  <br>
+<div style="margin-top: 0.6em;"></div>
+
+ <li>
+    <strong>The Limits of Foreign Faces: Descriptive Representation and Political Empowerment in South Africa </strong> (with <a href="https://simone-dietrich.com">Simone Dietrich</a>, 
+<a href="https://rikioinouye.org">Rikio Inouye</a>)
+
+ </li>
+
+
  
   </ol>
