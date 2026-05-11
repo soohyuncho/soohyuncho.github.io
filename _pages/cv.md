@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-[CV](https://drive.google.com/file/d/1xwFH75C3rwrxYu3AzkWKBHJiILSusMXL/view?usp=sharing) (updated: May 9. 2026)
+[CV](https://drive.google.com/file/d/1xwFH75C3rwrxYu3AzkWKBHJiILSusMXL/view?usp=sharing) (updated: May 9, 2026)
 
 
 
