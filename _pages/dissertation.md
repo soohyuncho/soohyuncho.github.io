@@ -41,26 +41,21 @@ horizontal: false
  <div style="margin-top: 0.6em;"></div>
 
 <li>
-<strong>Protectionism Reconsidered: Economic Insecurity and the Gender Gap in Trade Attitudes</strong>
-<details><summary>Abstract</summary>
-<p>Labor market institutions, especially discriminatory practices, shape how individuals form trade attitudes by structuring their exposure to wage and employment risks. However, existing studies emphasizing class, industry, firms, and occupation rarely consider discrimination as an institutional source of vulnerability. I argue that discriminatory labor-market practices create distinct economic risks for women. Women face not only the economic risks of trade liberalization but also discrimination that limits their access to trade’s benefits while elevating job-loss risk and slowing wage recovery. These gendered labor-market conditions activate gender identity, leading women to form trade attitudes based on both national and gender-group concerns. Men, who do not face gender-based disadvantages, rely primarily on national economic concerns. Evidence from a U.S. survey experiment shows that information emphasizing gender equality reduces women’s protectionism by strengthening an empowered gender identity, whereas information highlighting trade shocks increases protectionist attitudes across genders by heightening national economic concerns.</p>
-</details>
-</li>
-
-<div style="margin-top: 0.6em;"></div>
-
-
-
-<li>
 <strong>Beyond Paternalism: How Leadership Diversity Shapes Foreign Aid Perceptions in South Africa</strong> (with <a href="https://simone-dietrich.com">Simone Dietrich</a>, 
-<a href="https://rikioinouye.org">Rikio Inouye</a>)
+<a href="https://rikioinouye.org">Rikio Inouye</a>) <i> [Revise and Resubmit] </i>
 <details><summary>Abstract</summary>
 <p>This paper examines how the racial and gender composition of donor leadership shapes public opinion in recipient countries. Focusing on South Africa, we explore whether the inclusion of women and Black individuals in U.S. foreign aid leadership influences perceptions of aid programs. Given the legacy of neocolonialism in foreign assistance, we argue that such non-traditional leadership signals a break from paternalistic models, enhancing perceived alignment with recipient needs. Using a two-wave survey experiment conducted in South Africa in 2024, we manipulate the race and gender composition of U.S. aid leaders. We find that both descriptive representation and greater inclusion of marginalized groups improve favorability toward U.S. leadership, especially among women and Black respondents. However, the effects weaken among individuals with sexist attitudes. Our findings highlight how non-traditional leadership can enhance perceived responsiveness, contributing to broader debates on aid effectiveness, international legitimacy, and the intersectional politics of foreign policy institutions.</p>
 </details>
 </li>
 
+<div style="margin-top: 0.6em;"></div>
 
-
+<li>
+<strong>Protectionism Reconsidered: Economic Insecurity and the Gender Gap in Trade Attitudes</strong>
+<details><summary>Abstract</summary>
+<p>Labor market institutions, especially discriminatory practices, shape how individuals form trade attitudes by structuring their exposure to wage and employment risks. However, existing studies emphasizing class, industry, firms, and occupation rarely consider discrimination as an institutional source of vulnerability. I argue that discriminatory labor-market practices create distinct economic risks for women. Women face not only the economic risks of trade liberalization but also discrimination that limits their access to trade’s benefits while elevating job-loss risk and slowing wage recovery. These gendered labor-market conditions activate gender identity, leading women to form trade attitudes based on both national and gender-group concerns. Men, who do not face gender-based disadvantages, rely primarily on national economic concerns. Evidence from a U.S. survey experiment shows that information emphasizing gender equality reduces women’s protectionism by strengthening an empowered gender identity, whereas information highlighting trade shocks increases protectionist attitudes across genders by heightening national economic concerns.</p>
+</details>
+</li>
 
 </ol>
 
