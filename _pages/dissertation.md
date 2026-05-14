@@ -61,7 +61,7 @@ horizontal: false
 
 <br>
 
-**Selected Working Papers:**
+**Selected Working Papers (draft available upon request):**
 
 <ol>
 
