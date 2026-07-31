@@ -95,8 +95,7 @@ horizontal: false
 <div style="margin-top: 0.6em;"></div>
 
  <li>
-    <strong>Seeing Red? Perceptions of the AIIB and China’s
-Leadership Prospects </strong> (with <a href="https://sppga.ubc.ca/profile/soo-yeon-kim/">Soo Yeon Kim</a>)
+    <strong>Credibility by Association: How Leadership Nationality Shapes Legitimacy in Multilateral Institutions </strong> (with <a href="https://sppga.ubc.ca/profile/soo-yeon-kim/">Soo Yeon Kim</a>)
 
  </li>
 
