@@ -26,19 +26,8 @@ horizontal: false
 
 **Under Review** (draft available upon request):
 <ol>
-    <li> 
-<strong>Who Gets Protection from Protectionism? Evidence from the Buy American Act </strong> (with 
-<a href="https://kyuwon-lee.github.io">Kyuwon Lee</a>, <a href="https://hyeyoungyou.com/">Hye Young You</a>). Conditionally Accepted at <i> American Political Science Review </i>
-<details><summary>Abstract</summary>
-<p> Contemporary protectionist policies are implemented by bureaucratic agencies following executive directives, yet their enforcement varies substantially across firms. We argue that this selective enforcement reflects congressional influence exercised through legislators' institutional leverage and local embeddedness. We test this argument by examining the first Trump administration's effort to strengthen enforcement of the Buy American Act against firms reliant on foreign—especially Chinese—suppliers in federal procurement. Combining firm-level data on federal contracts, supply chains, and campaign contributions, we analyze 2,053 firms between 2015 and 2019. We find that firms dependent on Chinese suppliers before the 2016 election experienced significant contract reductions, but only among politically unprotected firms: those represented by legislators who did not sit on important committees or lacked local ties to their districts. Only these firms adjusted their supplier networks in response to stricter enforcement. Our findings demonstrate how congressional influence shapes the distributive consequences of executive-led protectionism. </p>
-</details>
-</li>
-
-
- <div style="margin-top: 0.6em;"></div>
-
   <li> 
-<strong>A Family Production Theory of Political Cleavages over Globalization and Welfare </strong> (with <a href="https://www.thomasflaherty.com">Thomas F. Flaherty</a>) <i> [Revise and Resubmit] </i>
+<strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5598710">A Family Production Theory of Political Cleavages over Globalization and Welfare </a> </strong> (with <a href="https://www.thomasflaherty.com">Thomas F. Flaherty</a>) <i> [Revise and Resubmit] </i>
 <details><summary>Abstract</summary>
 <p> Dominant approaches to globalization politics emphasize individual characteristics without accounting for families. We develop a theory that incorporates intra-family risk sharing into the Ricardo-Viner trade model, showing how economic shocks diffuse through family ties to shape political cleavages. Linking U.S. General Social Survey data with trade data, we examine how voters’ opinions respond when their family members are exposed to exogenous variation in import shocks from Mexico. Rising exposure through family members significantly increases respondents' support for a variety of globalization barriers and welfare compensation, independently of their own industry exposure. Our analysis also corroborates the theory's gendered implications. Because of gendered specialization within families, backlash against globalization is primarily driven by males, while welfare responses are concentrated among females. The results are robust to pre-treatment trends, placebo policy preferences, and voting behaviors. Our study highlights the importance of moving beyond individual characteristics to understand political cleavages over economic policy.  </p>
 </details>
