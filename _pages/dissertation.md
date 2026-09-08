@@ -10,8 +10,21 @@ nav_order: 2
 display_categories: 
 horizontal: false
 ---
+**Peer-reveiwed Articles**:
+<ol>
+    <li> 
+<strong>Who Gets Protection from Protectionism? Evidence from the Buy American Act </strong> (with 
+<a href="https://kyuwon-lee.github.io">Kyuwon Lee</a>, <a href="https://hyeyoungyou.com/">Hye Young You</a>). Conditionally Accepted at <i> American Political Science Review </i> [<a href="assets/pdf/baa.pdf">PDF</a>]
+<details><summary>Abstract</summary>
+<p> Contemporary protectionist policies are implemented by bureaucratic agencies following executive directives, yet their enforcement varies substantially across firms. We argue that this selective enforcement reflects congressional influence exercised through legislators' institutional leverage and local embeddedness. We test this argument by examining the first Trump administration's effort to strengthen enforcement of the Buy American Act against firms reliant on foreign—especially Chinese—suppliers in federal procurement. Combining firm-level data on federal contracts, supply chains, and campaign contributions, we analyze 2,053 firms between 2015 and 2019. We find that firms dependent on Chinese suppliers before the 2016 election experienced significant contract reductions, but only among politically unprotected firms: those represented by legislators who did not sit on important committees or lacked local ties to their districts. Only these firms adjusted their supplier networks in response to stricter enforcement. Our findings demonstrate how congressional influence shapes the distributive consequences of executive-led protectionism. </p>
+</details>
+</li>
 
- **Under Review** (draft available upon request):
+</ol>
+
+<br>
+
+**Under Review** (draft available upon request):
 <ol>
     <li> 
 <strong>Who Gets Protection from Protectionism? Evidence from the Buy American Act </strong> (with 
