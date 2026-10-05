@@ -64,15 +64,13 @@ horizontal: false
 <div style="margin-top: 0.6em;"></div>
 
  <li>
-    <strong>Welcome Goods, Unwelcome Workers: Regional Factor Abundance and the Globalization Backlash in Southern Africa </strong> (with <a href="https://polisci.osu.edu/people/brooks.317">Sarah Brooks</a>)
-<details><summary>Abstract</summary>
-<p>Canonical trade models predict that labor-abundant developing countries should support globalization. This stylized model obscures variation within the Global South, namely, differences between middle-income democracies and their poorer neighbors, as well as preferences across trade and migration. We develop a regional Stolper–Samuelson framework in which preferences depend on relative regional, not global, factor endowments. Countries like South Africa—labor-abundant globally but capital-abundant regionally—should support trade openness while opposing low-skilled migration from poorer neighbors for economic reasons of labor competition. A pre-registered conjoint experiment in South Africa and Zimbabwe shows that South Africans oppose openness to migration, especially low-skilled, with little opposition to trade openness; Zimbabweans show no such pattern. Afrobarometer data confirm this pattern, and the mechanism of insecurity driving it. Goods and labor markets thus operate at different scales: regional, not global relative abundance shapes the backlash to migration, but not to trade in developing countries.</p>
-</details>
+    <strong>Credibility by Association: How Leadership Nationality Shapes Legitimacy in Multilateral Institutions </strong> (with <a href="https://sppga.ubc.ca/profile/soo-yeon-kim/">Soo Yeon Kim</a>)
+
  </li>
 
-</ol>
+  <br>
+  
 
-<br>
 
 **Selected Working Papers** (draft available upon request):
 
@@ -99,11 +97,16 @@ horizontal: false
 <div style="margin-top: 0.6em;"></div>
 
  <li>
-    <strong>Credibility by Association: How Leadership Nationality Shapes Legitimacy in Multilateral Institutions </strong> (with <a href="https://sppga.ubc.ca/profile/soo-yeon-kim/">Soo Yeon Kim</a>)
-
+    <strong>Welcome Goods, Unwelcome Workers: Regional Factor Abundance and the Globalization Backlash in Southern Africa </strong> (with <a href="https://polisci.osu.edu/people/brooks.317">Sarah Brooks</a>)
+<details><summary>Abstract</summary>
+<p>Canonical trade models predict that labor-abundant developing countries should support globalization. This stylized model obscures variation within the Global South, namely, differences between middle-income democracies and their poorer neighbors, as well as preferences across trade and migration. We develop a regional Stolper–Samuelson framework in which preferences depend on relative regional, not global, factor endowments. Countries like South Africa—labor-abundant globally but capital-abundant regionally—should support trade openness while opposing low-skilled migration from poorer neighbors for economic reasons of labor competition. A pre-registered conjoint experiment in South Africa and Zimbabwe shows that South Africans oppose openness to migration, especially low-skilled, with little opposition to trade openness; Zimbabweans show no such pattern. Afrobarometer data confirm this pattern, and the mechanism of insecurity driving it. Goods and labor markets thus operate at different scales: regional, not global relative abundance shapes the backlash to migration, but not to trade in developing countries.</p>
+</details>
  </li>
 
-  <br>
+</ol>
+
+<br>
+
 <div style="margin-top: 0.6em;"></div>
 
  <li>
