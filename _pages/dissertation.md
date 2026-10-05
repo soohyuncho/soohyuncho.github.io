@@ -68,6 +68,7 @@ horizontal: false
 
  </li>
 
+</ol>
   <br>
   
 
@@ -103,7 +104,6 @@ horizontal: false
 </details>
  </li>
 
-</ol>
 
 <br>
 
