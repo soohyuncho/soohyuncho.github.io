@@ -93,7 +93,7 @@ horizontal: false
   <div style="margin-top: 0.6em;"></div>
 
   <li>
-    <strong>Writing Rules, Governing Work: Private Labor Governance in Global Supply Chains </strong>
+    <strong>Passing the Rules Down the Supply Chain: How Labour Programmes Spread Without Protecting Workers </strong>
   </li>
 <br>
   <div style="margin-top: 0.6em;"></div>
