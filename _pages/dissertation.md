@@ -68,17 +68,19 @@ horizontal: false
 
  </li>
 
-</ol>
-  <br>
-
-
+ 
 <div style="margin-top: 0.6em;"></div>
 
  <li>
     <strong>Welcome Goods, Unwelcome Workers: Regional Factor Abundance and the Globalization Backlash in Southern Africa </strong> (with <a href="https://polisci.osu.edu/people/brooks.317">Sarah Brooks</a>)
- </li>
-     <br>
 
+ </li>
+ 
+
+</ol>
+  <br>
+
+  
 
 **Selected Working Papers** (draft available upon request):
 
