@@ -93,7 +93,7 @@ horizontal: false
   <div style="margin-top: 0.6em;"></div>
 
   <li>
-    <strong>Passing the Rules Down the Supply Chain: How Labour Programmes Spread Without Protecting Workers </strong>
+    <strong>Passing the Rules Down the Supply Chain: How Labor Programs Spread Without Protecting Workers </strong>
   </li>
 <br>
   <div style="margin-top: 0.6em;"></div>
